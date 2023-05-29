@@ -5,7 +5,7 @@
 About me:
 
 - 🔭 My last experience was in [Plurall](https://www.linkedin.com/company/plurall/about/)
-- 🌱 I’m currently learning Python 
+- 🌱 I’m currently focusing on learning API test automation using HTTParty and Cucumber. And starting to learn Python.
 - 👯 I’m looking to collaborate on learning and sharing knowledge
 - 🤓 I love Mindmaps, look at this distinguished [mindmap](https://whimsical.com/mindmap-automacao-mobile-por-kalisia-andrade-QUR2tt3yi2fYidgtAWCJgU) that I created about mobile automation
 - 💬 Ask me about automation web, automation mobile, how to do a code review and photography
