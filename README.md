@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 Currently working at [Ritain.io] (https://www.linkedin.com/company/ritain-io)
+- 🔭 Currently working at [Ritain.io](https://www.linkedin.com/company/ritain-io)
 - 🌱 I’m currently focusing on learning API Rest and starting to learn Java.
 - 👯 I’m looking to collaborate on learning and sharing knowledge
 - 🤓 I love Mindmaps, look at this distinguished [mindmap](https://whimsical.com/mindmap-automacao-mobile-por-kalisia-andrade-QUR2tt3yi2fYidgtAWCJgU) that I created about mobile automation
