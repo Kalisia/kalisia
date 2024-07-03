@@ -8,7 +8,7 @@ About me:
 - 🌱 I’m always learning and sharing knowledge
 - 💬 Ask me about QA, career transition and how to do a code review
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalisia/)
-- ⚡ Fun fact: I'm also a tarotist.
+- ⚡ Fun fact: I'm also read tarot
 
 #
 <div style="display: inline_block"><br>
