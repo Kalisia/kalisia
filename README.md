@@ -4,7 +4,7 @@
 
 About me:
 
-- 🔭 Currently focusing on career transition from QA to Frontend
+- 🔭 Currently focusing on Cypress
 - 🌱 I’m always learning and sharing knowledge
 - 💬 Ask me about QA, career transition and how to do a code review
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kalisia/)
